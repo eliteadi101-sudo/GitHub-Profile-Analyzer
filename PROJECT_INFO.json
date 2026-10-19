@@ -1,0 +1,5 @@
+{
+  "name": "GitHub Profile Analyzer",
+  "stack": "HTML, CSS, JavaScript, GitHub REST API",
+  "description": "Look up a public GitHub username and summarize repositories, stars, and language usage."
+}
